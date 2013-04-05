@@ -1,0 +1,13 @@
+{
+  "name": "mobile-header",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "dependencies": {},
+  "styles": [
+    "index.scss"
+  ],
+  "files": [
+    "images/hamburger.svg",
+    "images/logo.svg"
+  ]
+}
