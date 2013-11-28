@@ -1,6 +1,6 @@
 .mobile-header {
   background: #228b07;
-  background: linear-gradient(top,#228b07,#1f7d07);
+  background: linear-gradient(to bottom,#228b07,#1f7d07);
   position: relative;
   height: 39px;
   box-shadow: 0 1px 1px rgba(0,0,0,.4);
